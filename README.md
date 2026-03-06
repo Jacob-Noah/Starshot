@@ -19,7 +19,7 @@
 
 ## Overview & Features
 
-I would say something really inspirational here about my vision for this app or why I made it, but the reality is, waiting months for your [AYN Thor](https://www.ayntec.com/products/ayn-thor) to arrive is a pain in the butt and I needed to do SOMETHING. I hope you enjoy.
+Starshot is an Android emulation frontend designed to provide a console-like, Material Design adjacent, utilitarian experience for managing and launching your game collection. Insightful choices with a focus on usability, reliability, and quick setup make it ideal for those who want their experience streamlined without sacrificing functionality. Named after the [Breakthrough Starshot](https://en.wikipedia.org/wiki/Breakthrough_Starshot) initiative that has long inspired me and what I believe possible for humanity, Starshot will get you where you want to go at light speed.
 
 ### 🎮 Console-Style Experience
 - **Tile-based home screen** with grid and border style personalizations
@@ -60,7 +60,8 @@ I would say something really inspirational here about my vision for this app or 
 ### 🎨 Theming & Customization
 - **Theme engine** with colors, styles and proportions
 - **Configurable sound effects** for navigation and actions
-- **Dynamic color theme support** based on game artwork - *Coming soon*
+- **Customizable wallpapers** for user personalization
+- **Dynamic color theme support** based on wallpapers with overrides
 
 ### 📁 Media & Extras
 - **Video, screenshots and manuals viewer** organized by game and system
@@ -109,5 +110,5 @@ A current to-do list of features and improvements can be found in my [projects D
 ---
 
 <p align="center">
-  Made with ❤️ and impatience, for retro gaming enthusiasts & the dual-screen handheld community
+  Made with ❤️ and impatience in receiving my AYN Thor, for retro gaming enthusiasts & the dual-screen handheld community
 </p>
