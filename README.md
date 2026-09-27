@@ -19,11 +19,11 @@
 
 ## Overview & Features
 
-Starshot is an Android emulation frontend designed to provide a console-like, Material Design adjacent, utilitarian experience for managing and launching your game collection. Insightful choices with a focus on usability, reliability, and quick setup make it ideal for those who want their experience streamlined without sacrificing functionality. Named after the [Breakthrough Starshot](https://en.wikipedia.org/wiki/Breakthrough_Starshot) initiative that has long inspired me and what I believe possible for humanity, Starshot will get you where you want to go at light speed.
+Starshot is an Android emulation frontend designed to provide a console-like, Material Design adjacent, utilitarian experience for managing and launching your game collection. Insightful choices with a focus on usability, reliability and quick setup make it ideal for those who want their experience streamlined without sacrificing functionality. Named after the [Breakthrough Starshot](https://en.wikipedia.org/wiki/Breakthrough_Starshot) initiative that has long inspired me and what I believe possible for humanity, Starshot will get you where you want to go at light speed.
 
 ### 🎮 Console-Style Experience
-- **Tile-based home screen** with grid and border style personalizations
-- **Recently played carousel** for quick access to your games
+- **Tile-based home screen** grid, border style and many more personalizations, widgets, and shortcuts
+- **Game library shelves** for quick access to your custom and generated collections
 - **System categories** organized by platform (NES, SNES, PS1, PS2, etc.)
 - **Controller-first UX** with full D-pad/analog navigation
 
@@ -31,23 +31,21 @@ Starshot is an Android emulation frontend designed to provide a console-like, Ma
 - **Auto-scan ROM directories** with hash-based identification
 - **Multiple metadata providers** (IGDB, SteamGridDB, ScreenScraper) for rich game info & style
 - **Grid, list and carousel views** with customizable display options
-- **Advanced organization** by system, favorites and recently played
+- **Advanced organization** by system, favorites, recently played and more
 
 ### 🕹️ Emulator Flexibility
-- **No embedded emulators** - works with your existing emulator apps
+- **No embedded emulators** - works with your existing emulator apps as you'd expect
 - **Auto-detect installed emulators** on your device
-- **Per-system emulator mapping** with sensible defaults
-- **Per-game override support** for special configurations
+- **Per-system & per-game emulator mapping** with sensible defaults, including emulator and RetroArch Core overrides for special configurations
 
 ### 🏆 RetroAchievements Integration
 - **Native RetroAchievements support** with login persistence
-- **Achievement popups** with custom sounds
 - **Per-game achievement tracking** and progress display (with dual-screen support)
-- **Hardcore mode support**
+- **Hardcore mode support** for organized achievement hunting
 
 ### 🕹️ RomM Integration
 - **RomM server support** allows you to fetch games from the RomM instance on your PC or server
-- **In-app RomM browser** to explore and download your collection
+- **In-app RomM browser** to explore and download from your collection, showing you (or, configurably, hiding) what you already have installed to your device
 - **Full directories support** so you can find exactly what you are looking for in your instance
 - **Collections support** to easily access your curated lists of games
 
@@ -65,12 +63,12 @@ Starshot is an Android emulation frontend designed to provide a console-like, Ma
 
 ### 📁 Media & Extras
 - **Video, screenshots and manuals viewer** organized by game and system
-- **Music player** for game soundtracks - *Coming soon*
-- **News feed** with RSS support for gaming news - *Coming soon*
+- **Music player** for game soundtracks
+- **News feed** with RSS support for gaming news - *Planned*
 
 ## Requirements
 
-- **Android 13+** (API level 33)
+- **Android 11+** (API level 30)
 - **Emulator apps** installed for your game systems
 - **ROM files** dumped from your legally owned games
 
@@ -79,7 +77,7 @@ Starshot is an Android emulation frontend designed to provide a console-like, Ma
 ### From Releases
 1. Download the latest APK from [Releases](https://github.com/Jacob-Noah/Starshot/releases)
 2. Install on your Android device
-3. Configure your ROM directory (or specific system mappings you don't use ES-DE standard directories) in Settings
+3. Configure your ROM directory (or specific system mappings if you don't use an ES-DE standard directory structure) in Settings
 4. Configure your scrapers in Settings
 5. Run a scan, run a scrape and enjoy your games!
 
@@ -89,13 +87,13 @@ Starshot is built with a modern Android architecture, leveraging Kotlin and Jetp
 
 ## Contributing
 
-I am looking for testers to help improve Starshot. It is in active development and in use every day to keep making it better. If you want to help out, you can make an issue here on GitHub or join my [projects Discord server](https://discord.gg/WJD97fw) to discuss the app, suggest features, or report bugs.
+We are looking for testers to help improve Starshot. It is in active development and in use every day to keep making it better. If you want to help out, you can make an issue here on GitHub or join the Starshot Launcher [Discord server](https://discord.gg/nhHSGfVAzk) to discuss the app, suggest features, or report bugs.
 
 When making an issue, please provide as much detail as possible, including steps to reproduce, screenshots and device information if relevant. There is an issue template to help guide you through the process.
 
 ## Roadmap
 
-A current to-do list of features and improvements can be found in my [projects Discord server](https://discord.gg/WJD97fw) in the [#todos](https://discord.com/channels/365599795886161941/1468436633329205258) channel.
+We maintain a to-do list of features and improvements. It is currently private to the tester team, but we anticipate changes to our triage as we enter public beta. Release information will be posted in the Starshot Launcher [Discord server](https://discord.gg/nhHSGfVAzk).
 
 ## Acknowledgments
 
