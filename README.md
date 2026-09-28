@@ -1,8 +1,10 @@
-# Starshot Launcher - Android gaming frontend
-
-<!-- <p align="center">
-  <img src="docs/images/logo.png" alt="Starshot Logo" width="200"/>
-</p> -->
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo-light.svg" alt="" width="64" align="middle">
+  </picture>
+  Starshot Launcher - Android gaming frontend
+</h1>
 
 <p align="center">
   Starshot Launcher - a comfortable and familiar emulation and gaming frontend for Android.
@@ -96,7 +98,6 @@ When making an issue, please provide as much detail as possible, including steps
 We maintain a to-do list of features and improvements. It is currently private to the tester team, but we anticipate changes to our triage as we enter public beta. Release information will be posted in the Starshot Launcher [Discord server](https://discord.gg/nhHSGfVAzk).
 
 ## Acknowledgments
-
 - [RetroAchievements](https://retroachievements.org/) for the achievements API
 - [RomM](https://romm.app/) for the API in their ROM management server
 - [IGDB](https://www.igdb.com/) for game artwork and metadata
@@ -104,6 +105,7 @@ We maintain a to-do list of features and improvements. It is currently private t
 - [ScreenScraper](https://www.screenscraper.fr/) for game artwork and metadata
 - The [Android](https://developer.android.com) and [Kotlin](https://developer.android.com/kotlin) communities for their excellent documentation and libraries
 - [ES-DE](https://es-de.org/) for the structure of their ROM directories and metadata management
+- [volekdesigns](https://volekdesigns.com/) for the amazing Starshot logo design
 
 ---
 
